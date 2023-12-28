@@ -46,3 +46,6 @@
 *://*.timesnownews.com/*
 *://*.softonic.com/*
 *://*.prompthero.com/*
+*://*.artmajeur.com/*
+*://*.pixers.de/*
+*://*.pixers.com/*
