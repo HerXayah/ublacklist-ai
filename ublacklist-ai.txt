@@ -42,3 +42,7 @@
 *://*.simplified.com/*
 *://*.veed.io/*
 *://*.pfpmaker.com/*
+*://*.depositphotos.com/*
+*://*.timesnownews.com/*
+*://*.softonic.com/*
+*://*.prompthero.com/*
