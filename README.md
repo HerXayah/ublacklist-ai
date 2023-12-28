@@ -1,4 +1,4 @@
 # ublacklist-ai
-Block the god damn ai art from my google images.
+Block the god damn ai from my search result.
 
-Its WIP and any help is appreciated.
+Heavily WIP
