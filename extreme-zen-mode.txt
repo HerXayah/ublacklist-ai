@@ -17,3 +17,4 @@
 *://*.play.google.com/*
 *://*.stock.adobe.com/*
 *://*.aliexpress.com/*
+*://*.flipkart.com/*
