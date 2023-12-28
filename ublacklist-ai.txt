@@ -1,0 +1,14 @@
+# UBlacklist AI Filter.
+# https://github.com/PrincessAkira/ublacklist-ai
+
+*://www.prompthunt.com/*
+*://tensor.art/*
+*://www.freepik.com/*
+*://www.craiyon.com/*
+*://pixai.art/*
+*://opendream.ai/*
+*://openart.ai/*
+*://creator.nightcafe.studio/*
+*://www.creativefabrica.com/*
+*://search.krea.ai/*
+*://wallpapers.ai/*
