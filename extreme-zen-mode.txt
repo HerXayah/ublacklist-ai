@@ -18,3 +18,16 @@
 *://*.stock.adobe.com/*
 *://*.aliexpress.com/*
 *://*.flipkart.com/*
+*://*.spreadshirt.de/*
+*://*.redbubble.com/*
+*://*.printler.com/*
+*://*.pinterest.de/*
+*://*.pinterest.com/*
+*://*.playhop.com/*
+*://*.europosters.de/*
+*://*.spotify.com/*
+*://*.zalando.de/*
+*://*.youtube.com/*
+*://*.istockphoto.com/*
+*://*.turbosquid.com/*
+*://*.xbox.com/*
