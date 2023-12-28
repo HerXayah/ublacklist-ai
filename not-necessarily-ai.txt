@@ -1,7 +1,19 @@
-# Everything that can be normal stuff aswell or what you might wanna use still.
+# Extreme Version of AI Art. For maximum Zen Mode when searching for stuff.
 # made by https://github.com/PrincessAkira with 💖
 
 *://*.etsy.com/*
 *://*.worldofprintables.com/*
 *://*.apkpure.com/*
 *://*.chromewebstore.google.com/*
+*://*.pinterest.com/*
+*://.chrome.google.com/*
+*://*.gutefrage.net/*
+*://*.fiverr.com/*
+*://*.facebook.com/*
+*://*.amazon.de/*
+*://*.amazon.com/*
+*://*.moddb.com/*
+*://*.tiktok.com/*
+*://*.play.google.com/*
+*://*.stock.adobe.com/*
+*://*.aliexpress.com/*
